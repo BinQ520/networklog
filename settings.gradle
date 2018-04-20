@@ -1,0 +1,4 @@
+include ':FileSelector'
+include ':libraryActionBarSherlock'
+include ':networklog'
+include ':libraryViewPagerIndicator'

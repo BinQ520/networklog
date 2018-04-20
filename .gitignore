@@ -27,3 +27,15 @@ obj/
 
 # Local configuration file (sdk path, etc)
 local.properties
+/.idea
+/.settings
+/build
+/.gradle
+/FileSelector/build
+/networklog/build
+/networklog/.idea
+/libraryActionBarSherlock/build
+/libraryViewPagerIndicator/build
+/*.iml
+/gradlew
+/gradlew.bat
